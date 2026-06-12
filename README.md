@@ -1,2 +1,1 @@
-# Excel-Automation
-Excel Automation &amp; report dashboard
+Professional Data Analyst Dashboard project developed using Excel and Power BI. The dashboard provides insights into sales performance, regional analysis, product trends, and monthly revenue metrics through interactive visualizations and KPI tracking.
